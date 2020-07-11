@@ -7,16 +7,16 @@
 
 Gitmogi Commit is an initiative to standardize the use of emojis on GitHub commit messages.
 
+
 ## 🎯 Using
 
 | Commit type                | Emoji                | Code                 |
 |:---------------------------|:---------------------|:---------------------|
 | initial commit             | :tada:               | `:tada:`             |
+| package.json               | :package:            | `:package:`          |
+
 
 ### Copyright © ErwCode Technologies. All rights reserved
-
-The code is available under the MIT license.
-
 
 Made with 💖 by [ErwCode Technologies](https://erwcode.com/).
 
