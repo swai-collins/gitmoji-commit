@@ -14,6 +14,7 @@ Gitmogi Commit is an initiative to standardize the use of emojis on GitHub commi
 |:---------------------------|:---------------------|:---------------------|
 | initial commit             | :tada:               | `:tada:`             |
 | package.json               | :package:            | `:package:`          |
+| releasing / version        | :bookmark:           | `:bookmark:`         |
 
 
 ### Copyright © ErwCode Technologies. All rights reserved
