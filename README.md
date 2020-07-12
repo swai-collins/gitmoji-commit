@@ -12,10 +12,11 @@ Gitmogi Commit is an initiative to standardize the use of emojis on GitHub commi
 
 | Commit type                | Emoji                | Code                 |
 |:---------------------------|:---------------------|:---------------------|
-| initial commit             | :tada:               | `:tada:`             |
-| package.json               | :package:            | `:package:`          |
-| releasing / version        | :bookmark:           | `:bookmark:`         |
-| license                    | :page_facing_up:     | `:page_facing_up:`   |
+| Initial commit             | :tada:               | `:tada:`             |
+| Package.json               | :package:            | `:package:`          |
+| Version                    | :bookmark:           | `:bookmark:`         |
+| License                    | :page_facing_up:     | `:page_facing_up:`   |
+| README.md                  | :pencil:             | `:pencil:`           |
 
 
 ### Copyright © ErwCode Technologies. All rights reserved
