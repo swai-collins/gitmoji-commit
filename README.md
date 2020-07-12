@@ -18,6 +18,7 @@ Gitmogi Commit is an initiative to standardize the use of emojis on GitHub commi
 | License                    | :page_facing_up:     | `:page_facing_up:`   |
 | README.md                  | :pencil:             | `:pencil:`           |
 | New features               | :sparkles:           | `:sparkles:`         |
+| Improving performance      | :zap:                | `:zap:`              |
 
 
 ### Copyright © ErwCode Technologies. All rights reserved
