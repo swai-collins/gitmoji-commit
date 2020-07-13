@@ -1,24 +1,25 @@
-# Gitmogi Commit Sheet
+# Gitmoji Commit Sheet
 
 [![MIT License][mit-license-image]][mit-license-url]
 ![GitHub package.json version][version-url]
 
 ## 📋 About
 
-Gitmogi Commit is an initiative to standardize the use of emojis on GitHub commit messages.
+Gitmogi Commit is an initiative to standardize the use of emojis on GitHub commit messages. Using emojis on commit messages provides an easy way of identifying the purpose or intention of a commit with only looking at the emojis used.
 
 
 ## 🎯 Using
 
-| Commit type                | Emoji                | Code                 |
-|:---------------------------|:---------------------|:---------------------|
-| Initial commit             | :tada:               | `:tada:`             |
-| Package.json               | :package:            | `:package:`          |
-| Version                    | :bookmark:           | `:bookmark:`         |
-| License                    | :page_facing_up:     | `:page_facing_up:`   |
-| README.md                  | :pencil:             | `:pencil:`           |
-| New features               | :sparkles:           | `:sparkles:`         |
-| Improving performance      | :zap:                | `:zap:`              |
+| Commit type                 | Emoji                | Code                 |
+|:----------------------------|:---------------------|:---------------------|
+| Initial commit              | :tada:               | `:tada:`             |
+| Package.json                | :package:            | `:package:`          |
+| Version                     | :bookmark:           | `:bookmark:`         |
+| License                     | :page_facing_up:     | `:page_facing_up:`   |
+| README.md                   | :pencil:             | `:pencil:`           |
+| New features                | :sparkles:           | `:sparkles:`         |
+| Improving performance       | :zap:                | `:zap:`              |
+| Updating UI or style files  | :lipstick:           | `:lipstick:`         |
 
 
 ### Copyright © ErwCode Technologies. All rights reserved
