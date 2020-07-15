@@ -22,6 +22,7 @@ Gitmogi Commit is an initiative to standardize the use of emojis on GitHub commi
 | UI or style files           | :lipstick:             | `:lipstick:`             |
 | Custom brand project        | :art:                  | `:art:`                  |
 | CI build system             | :construction_worker:  | `:construction_worker:`  |
+| Work in progress            | :construction:         | `:construction:`         |
 
 ### Copyright © ErwCode Technologies. All rights reserved
 
