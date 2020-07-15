@@ -24,6 +24,7 @@ Gitmogi Commit is an initiative to standardize the use of emojis on GitHub commi
 | CI build system              | :construction_worker:    | `:construction_worker:`    |
 | Work in progress             | :construction:           | `:construction:`           |
 | Making architectural changes | :building_construction:  | `:building_construction:`  |
+| Refactoring code             | :recycle:                | `:recycle:`                |
 
 ### Copyright © ErwCode Technologies. All rights reserved
 
