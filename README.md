@@ -10,22 +10,23 @@ Gitmogi Commit is an initiative to standardize the use of emojis on GitHub commi
 
 ## 🎯 Using
 
-| Commit type                  | Emoji                    | Code                       |
-|:-----------------------------|:-------------------------|:---------------------------|
-| Initial commit               | :tada:                   | `:tada:`                   |
-| Package.json                 | :package:                | `:package:`                |
-| Version                      | :bookmark:               | `:bookmark:`               |
-| License                      | :page_facing_up:         | `:page_facing_up:`         |
-| README.md                    | :pencil:                 | `:pencil:`                 |
-| New features                 | :sparkles:               | `:sparkles:`               |
-| Improving performance        | :zap:                    | `:zap:`                    |
-| UI or style files            | :lipstick:               | `:lipstick:`               |
-| Custom brand project         | :art:                    | `:art:`                    |
-| CI build system              | :construction_worker:    | `:construction_worker:`    |
-| Work in progress             | :construction:           | `:construction:`           |
-| Making architectural changes | :building_construction:  | `:building_construction:`  |
-| Refactoring code             | :recycle:                | `:recycle:`                |
-| SEO, Structured data         | :mag:                    | `:mag:`                    |
+| Commit type                   | Emoji                    | Code                       |
+|:------------------------------|:-------------------------|:---------------------------|
+| Initial commit                | :tada:                   | `:tada:`                   |
+| Package.json                  | :package:                | `:package:`                |
+| Version                       | :bookmark:               | `:bookmark:`               |
+| License                       | :page_facing_up:         | `:page_facing_up:`         |
+| README.md                     | :pencil:                 | `:pencil:`                 |
+| New features                  | :sparkles:               | `:sparkles:`               |
+| Improving performance         | :zap:                    | `:zap:`                    |
+| UI or style files             | :lipstick:               | `:lipstick:`               |
+| Custom brand project          | :art:                    | `:art:`                    |
+| CI build system               | :construction_worker:    | `:construction_worker:`    |
+| Work in progress              | :construction:           | `:construction:`           |
+| Making architectural changes  | :building_construction:  | `:building_construction:`  |
+| Refactoring code              | :recycle:                | `:recycle:`                |
+| Scripts, SEO, Structured data | :mag:                    | `:mag:`                    |
+| Fix bug                       | :beetle:                 | `:beetle:`                 |
 
 ### Copyright © ErwCode Technologies. All rights reserved
 
