@@ -1,6 +1,6 @@
 {
   "name": "gitmogi-commit",
-  "version": "0.10.0",
+  "version": "0.11.0",
   "description": "Gitmogi Commit is an initiative to standardize the use of emojis on GitHub commit messages",
   "main": "index.js",
   "scripts": {
