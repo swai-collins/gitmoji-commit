@@ -28,6 +28,7 @@ Gitmogi Commit is an initiative to standardize the use of emojis on GitHub commi
 | Scripts, SEO, Structured data | :mag:                    | `:mag:`                    |
 | Fix bug                       | :beetle:                 | `:beetle:`                 |
 | Responsie Design              | :iphone:                 | `:iphone:`                 |
+| Animations and transitions    | :dizzy:                  | `:dizzy:`                  |
 
 ### Copyright © ErwCode Technologies. All rights reserved
 
