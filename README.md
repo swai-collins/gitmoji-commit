@@ -31,6 +31,7 @@ Gitmogi Commit is an initiative to standardize the use of emojis on GitHub commi
 | Animations and transitions    | :dizzy:                     | `:dizzy:`                     |
 | Mergin branches               | :twisted_rightwards_arrows: | `:twisted_rightwards_arrows:` |
 | Upgrading dependencies        | :arrow_up:                  | `:arrow_up:`                  |
+| Downgrading dependencies      | :arrow_down:                | `:arrow_down:`                |
 
 ### Copyright © ErwCode Technologies. All rights reserved
 
