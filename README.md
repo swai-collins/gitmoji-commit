@@ -30,6 +30,7 @@ Gitmogi Commit is an initiative to standardize the use of emojis on GitHub commi
 | Responsie Design              | :iphone:                    | `:iphone:`                    |
 | Animations and transitions    | :dizzy:                     | `:dizzy:`                     |
 | Mergin branches               | :twisted_rightwards_arrows: | `:twisted_rightwards_arrows:` |
+| Upgrading dependencies        | :arrow_up:                  | `:arrow_up:`                  |
 
 ### Copyright © ErwCode Technologies. All rights reserved
 
