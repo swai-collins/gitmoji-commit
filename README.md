@@ -5,7 +5,7 @@
 
 ## 📋 About
 
-Gitmogi Commit is an initiative to standardize the use of emojis on GitHub commit messages. Using emojis on commit messages provides an easy way of identifying the purpose or intention of a commit with only looking at the emojis used.
+Gitmoji Commit is an initiative to standardize the use of emojis on GitHub commit messages. Using emojis on commit messages provides an easy way of identifying the purpose or intention of a commit with only looking at the emojis used.
 
 
 ## 🎯 Using
@@ -32,7 +32,21 @@ Gitmogi Commit is an initiative to standardize the use of emojis on GitHub commi
 | Mergin branches               | :twisted_rightwards_arrows: | `:twisted_rightwards_arrows:` |
 | Upgrading dependencies        | :arrow_up:                  | `:arrow_up:`                  |
 | Downgrading dependencies      | :arrow_down:                | `:arrow_down:`                |
-| Remove repository warnings    | :rotating_light:            | `:rotating_light:`             |
+| Remove repository warnings    | :rotating_light:            | `:rotating_light:`            |
+
+
+## 🍱 Atomic Design
+
+> We’re not designing pages, we’re designing systems of components. — Stephen Hay
+
+| Commit type                   | Emoji                       | Code                          |
+|:------------------------------|:----------------------------|:------------------------------|
+| Atoms                         | :fried_shrimp:              | `:fried_shrimp:`              |
+| Molecules                     | :sushi:                     | `:sushi:`                     |
+| Organisms                     | :oden:                      | `:oden:`                      |
+| Templates                     | :rice:                      | `:rice:`                      |
+| Pages                         | :bento:                     | `:bento:`                     |
+
 
 ### Copyright © ErwCode Technologies. All rights reserved
 
