@@ -1,7 +1,7 @@
 {
-  "name": "gitmogi-commit",
-  "version": "0.15.0",
-  "description": "Gitmogi Commit is an initiative to standardize the use of emojis on GitHub commit messages",
+  "name": "gitmoji-commit",
+  "version": "0.16.0",
+  "description": "Gitmoji Commit is an initiative to standardize the use of emojis on GitHub commit messages",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
