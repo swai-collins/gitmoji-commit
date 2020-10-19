@@ -14,6 +14,7 @@ Gitmoji Commit is an initiative to standardize the use of emojis on GitHub commi
 |:------------------------------|:----------------------------|:------------------------------|
 | Initial commit                | :tada:                      | `:tada:`                      |
 | .gitignore file               | :card_file_box:             | `:card_file_box:`             |
+| .editorconfig file            | :mouse:                     | `:mouse:`                     |
 | Package.json                  | :package:                   | `:package:`                   |
 | Version                       | :bookmark:                  | `:bookmark:`                  |
 | License                       | :page_facing_up:            | `:page_facing_up:`            |
